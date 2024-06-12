@@ -21,9 +21,15 @@
     <ClCompile Include="setup.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="TCP.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="setup.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="TCP.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
