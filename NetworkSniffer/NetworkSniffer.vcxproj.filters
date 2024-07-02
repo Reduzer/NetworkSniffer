@@ -32,5 +32,11 @@
     <ClInclude Include="TCP.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkingCommons.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
